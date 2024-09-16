@@ -1,0 +1,1 @@
+This algorithm generates all moduli that produce a given period t >=6, t is an integer. This algorithm applies to generalized Fibonacci sequences, meaning the first two entries (a and b) are free but the gcd(a,b) has to be 1. 
